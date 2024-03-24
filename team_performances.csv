@@ -1,0 +1,296 @@
+total_games,team_name,wins,win_percentage
+304,FC Barcelona,234,76
+304,Real Madrid CF,228,75
+304,Celtic,218,71
+272,FC Bayern Munich,193,70
+304,Manchester United,192,63
+301,Juventus,189,62
+248,SL Benfica,185,74
+248,FC Porto,183,73
+272,Ajax,181,66
+286,FC Basel,180,62
+272,PSV,178,65
+304,Chelsea,176,57
+304,Manchester City,175,57
+304,Paris Saint-Germain,175,57
+304,Arsenal,170,55
+304,Atlético Madrid,167,54
+303,Roma,162,53
+272,Borussia Dortmund,157,57
+303,Milan,154,50
+303,Inter,154,50
+304,Olympique Lyonnais,153,50
+301,Napoli,153,50
+304,Tottenham Hotspur,151,49
+304,Liverpool,150,49
+304,LOSC Lille,147,48
+272,FC Twente,144,52
+248,Sporting CP,144,58
+304,Olympique de Marseille,143,47
+286,BSC Young Boys,142,49
+304,Valencia CF,142,46
+272,AZ,140,51
+304,Sevilla FC,139,45
+272,Feyenoord,139,51
+272,Bayer 04 Leverkusen,137,50
+240,Legia Warszawa,137,57
+212,RSC Anderlecht,136,64
+300,Fiorentina,132,44
+301,Lazio,131,43
+272,FC Schalke 04,127,46
+304,Girondins de Bordeaux,126,41
+248,SC Braga,126,50
+240,Lech Poznań,124,51
+212,Club Brugge KV,123,58
+304,Athletic Club de Bilbao,122,40
+304,Motherwell,122,40
+304,Everton,121,39
+304,AS Saint-Étienne,121,39
+304,Aberdeen,120,39
+286,FC Zürich,120,41
+272,VfL Wolfsburg,117,43
+302,Udinese,115,38
+304,Dundee United,115,37
+286,Grasshopper Club Zürich,115,40
+266,Villarreal CF,112,42
+304,Stade Rennais FC,111,36
+266,Montpellier Hérault SC,110,41
+272,FC Groningen,109,40
+272,Borussia Mönchengladbach,109,40
+218,KAA Gent,109,50
+152,Rangers,108,71
+240,Wisła Kraków,108,45
+272,SC Heerenveen,107,39
+304,OGC Nice,106,34
+304,Málaga CF,106,34
+212,Standard de Liège,106,50
+302,Genoa,106,35
+272,Vitesse,105,38
+272,FC Utrecht,105,38
+286,FC Luzern,105,36
+286,FC Sion,104,36
+304,Toulouse FC,103,33
+266,Heart of Midlothian,101,37
+272,VfB Stuttgart,99,36
+266,St. Johnstone FC,98,36
+304,Stoke City,98,32
+304,RCD Espanyol,97,31
+304,FC Lorient,97,31
+212,KRC Genk,97,45
+266,Inverness Caledonian Thistle,96,36
+228,AS Monaco,95,41
+304,Getafe CF,94,30
+248,CD Nacional,94,37
+272,Hamburger SV,93,34
+272,Heracles Almelo,93,34
+240,Ruch Chorzów,92,38
+248,Vitória Guimarães,92,37
+266,Palermo,91,34
+272,Hannover 96,91,33
+240,Śląsk Wrocław,89,37
+272,SV Werder Bremen,89,32
+238,1. FSV Mainz 05,88,36
+240,Jagiellonia Białystok,87,36
+272,TSG 1899 Hoffenheim,87,31
+303,Chievo Verona,87,28
+304,Kilmarnock,86,28
+304,Aston Villa,86,28
+248,CS Marítimo,85,34
+228,Real Sociedad,84,36
+266,Sampdoria,84,31
+212,KV Kortrijk,82,38
+266,Newcastle United,82,30
+248,FC Paços de Ferreira,80,32
+266,West Ham United,80,30
+212,KV Mechelen,79,37
+263,Atalanta,79,30
+272,ADO Den Haag,79,29
+240,Lechia Gdańsk,78,32
+304,Sunderland,78,25
+212,SV Zulte-Waregem,78,36
+264,Cagliari,76,28
+248,Rio Ave FC,75,30
+266,West Bromwich Albion,75,28
+212,Sporting Lokeren,74,34
+226,Parma,74,32
+238,Eintracht Frankfurt,72,30
+216,FC St. Gallen,72,33
+238,NAC Breda,71,29
+238,Roda JC Kerkrade,71,29
+228,Fulham,71,31
+214,FC Thun,71,33
+210,Korona Kielce,69,32
+228,Levante UD,69,30
+228,FC Sochaux-Montbéliard,69,30
+238,N.E.C.,68,28
+263,Bologna,68,25
+228,CA Osasuna,67,29
+224,Catania,67,29
+190,RCD Mallorca,67,35
+190,Rayo Vallecano,66,34
+180,Piast Gliwice,65,36
+204,Hertha BSC Berlin,65,31
+228,Valenciennes FC,65,28
+228,Hibernian,65,28
+204,SC Freiburg,62,30
+180,GKS Bełchatów,62,34
+228,RC Deportivo de La Coruña,62,27
+190,Swansea City,62,32
+210,Cracovia,61,29
+266,St. Mirren,61,22
+150,P. Warszawa,60,40
+152,Southampton,60,39
+204,1. FC Köln,60,29
+180,Zagłębie Lubin,59,32
+182,KSV Cercle Brugge,58,31
+248,Vitória Setúbal,58,23
+190,Torino,57,30
+190,SM Caen,56,29
+190,Hamilton Academical FC,56,29
+190,AS Nancy-Lorraine,56,29
+190,Real Betis Balompié,56,29
+248,Académica de Coimbra,56,22
+170,FC Augsburg,55,32
+182,Sporting Charleroi,55,30
+190,Real Sporting de Gijón,54,28
+152,RC Celta de Vigo,54,35
+182,KVC Westerlo,54,29
+152,AJ Auxerre,53,34
+190,Granada CF,52,27
+152,SC Bastia,51,33
+128,Estoril Praia,50,39
+190,Wigan Athletic,50,26
+152,Ross County FC,50,32
+136,PEC Zwolle,49,36
+170,1. FC Nürnberg,49,28
+190,UD Almería,48,25
+152,Évian Thonon Gaillard FC,45,29
+152,FC Nantes,45,29
+204,Willem II,44,21
+152,Stade de Reims,44,28
+152,Real Zaragoza,43,28
+152,Bolton Wanderers,43,28
+120,Pogoń Szczecin,42,35
+150,Podbeskidzie Bielsko-Biała,42,28
+152,Blackburn Rovers,42,27
+152,Beerschot AC,40,26
+152,Norwich City,39,25
+114,Sassuolo,37,32
+150,Siena,37,24
+152,Racing Santander,37,24
+114,En Avant de Guingamp,37,32
+158,CF Os Belenenses,37,23
+114,Crystal Palace,37,32
+152,Real Valladolid,37,24
+126,Neuchâtel Xamax,36,28
+144,FC Aarau,35,24
+76,Leicester City,34,44
+136,RKC Waalwijk,34,25
+150,S.C. Olhanense,32,21
+114,Partick Thistle F.C.,32,28
+152,Hull City,32,21
+114,Hellas Verona,32,28
+118,Sint-Truidense VV,31,26
+114,Dundee FC,29,25
+66,KV Oostende,29,43
+136,VVV-Venlo,29,21
+98,FC Arouca,28,28
+114,Stade Brestois 29,27,23
+136,De Graafschap,27,19
+136,Excelsior,27,19
+114,RC Lens,26,22
+124,Gil Vicente FC,26,20
+108,AC Bellinzona,25,23
+98,Moreirense FC,25,25
+114,Wolverhampton Wanderers,25,21
+94,RAEC Mons,25,26
+102,SC Cambuur,24,23
+96,Waasland-Beveren,24,25
+111,Lecce,24,21
+106,FC Lausanne-Sports,23,21
+90,"União de Leiria, SAD",23,25
+90,Oud-Heverlee Leuven,22,24
+114,AC Ajaccio,22,19
+90,Naval 1° de Maio,22,24
+126,Lierse SK,22,17
+114,Queens Park Rangers,22,19
+76,Birmingham City,21,27
+90,Arka Gdynia,20,22
+76,SD Eibar,20,26
+76,Empoli,20,26
+70,Servette FC,20,28
+90,SC Beira Mar,20,22
+76,Elche CF,20,26
+60,Zawisza Bydgoszcz,19,31
+108,FC Vaduz,19,17
+110,Cesena,19,17
+76,Le Mans FC,18,23
+76,Bari,18,23
+60,Leixões SC,17,28
+68,Go Ahead Eagles,17,25
+68,1. FC Kaiserslautern,17,25
+76,Portsmouth,17,22
+68,Boavista FC,17,25
+60,Górnik Łęczna,16,26
+76,Burnley,15,19
+60,Odra Wodzisław,15,25
+180,Widzew Łódź,15,8
+76,Falkirk,15,19
+68,Sparta Rotterdam,15,22
+76,Grenoble Foot 38,15,19
+38,Angers SCO,13,34
+76,Livorno,13,17
+68,VfL Bochum,13,19
+38,UD Las Palmas,12,31
+38,Watford,12,31
+94,Royal Excel Mouscron,12,12
+62,KSV Roeselare,12,19
+38,Bournemouth,11,28
+76,ES Troyes AC,11,14
+34,FC Ingolstadt 04,10,29
+38,CD Numancia,10,26
+38,Blackpool,10,26
+36,Lugano,9,25
+34,FCV Dender EH,9,26
+34,SV Darmstadt 98,9,26
+38,Dijon FCO,9,23
+38,CD Tenerife,9,23
+38,Hércules Club de Fútbol,9,23
+38,Carpi,9,23
+38,GFC Ajaccio,8,21
+34,FC St. Pauli,8,23
+34,Karlsruher SC,8,23
+34,FC Energie Cottbus,8,23
+38,RC Recreativo,8,21
+38,Xerez Club Deportivo,8,21
+38,Frosinone,8,21
+30,Amadora,8,26
+30,Termalica Bruk-Bet Nieciecza,8,26
+34,Tondela,8,23
+34,Tubize,7,20
+38,US Boulogne Cote D'Opale,7,18
+34,Uniao da Madeira,7,20
+34,FC Volendam,7,20
+34,Fortuna Düsseldorf,7,20
+38,Cardiff City,7,18
+34,SC Paderborn 07,7,20
+38,Middlesbrough,7,18
+38,FC Metz,7,18
+38,Le Havre AC,7,18
+38,Brescia,7,18
+36,Novara,6,16
+38,Reggio Calabria,6,15
+30,Portimonense,6,20
+34,Eintracht Braunschweig,6,17
+38,Reading,6,15
+38,Pescara,6,15
+30,Feirense,5,16
+30,KAS Eupen,5,16
+34,FC Penafiel,5,14
+30,Trofense,5,16
+38,Dunfermline Athletic,5,13
+34,FC Dordrecht,4,11
+34,SpVgg Greuther Fürth,4,11
+34,DSC Arminia Bielefeld,4,11
+38,Córdoba CF,3,7
+38,AC Arles-Avignon,3,7
